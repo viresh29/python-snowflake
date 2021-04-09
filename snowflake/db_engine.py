@@ -14,7 +14,7 @@ class DBEngine(ABC):
 
 
 class SnowFlakeEngine(DBEngine):
-    def __init__(self, account, user, warehouse=None, database=None, password=None):
+    def __init__(self, account, user, warehouse, database, password=None):
         self.account = account
         self.user = user
         self.warehouse = warehouse
