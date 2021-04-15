@@ -1,0 +1,32 @@
+short cut for docker pull 
+# docker run ubuntu
+# docker ps
+# docker ps -a
+# docker run -it ubuntu
+# root@dockerId, / means I m on highest directory at root level and # sign means I have full previliges. 
+echo $0
+/bin/bash
+bin is directory
+bash - Born against shell, steve Born
+
+Linux - Case sensitive
+histrory
+
+!2
+
+
+apt - advanced package tool
+
+apt install nano 
+apt update (to update package database)
+apt install nano
+apt remove nano
+
+cat is concatente to multlple files 
+
+nano 
+cat
+more
+less 
+head -n 5
+tail -n 5
